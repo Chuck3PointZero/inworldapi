@@ -1,5 +1,5 @@
-# inworldapi
-Basic api wrapper for using Inworld's Node.js integration
+# inworldai api
+Basic api wrapper for using Inworld.ai's Node.js integration
 
 ## Installation
 1. npm install
